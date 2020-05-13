@@ -30,6 +30,7 @@ If you find any errors in this week's issue, [please submit a PR](https://github
 * [Collecting many errors from an iterator of Results](https://tarquin-the-brave.github.io/blog/posts/collecting-all-the-errors/).
 * [Auto-currying Rust Functions](https://peppe.rs/posts/auto-currying_rust_functions/)
 * [Converting bits to integers in Rust using generics](https://dev.to/citizen_stig/converting-bits-to-integers-in-rust-using-generics-2nfg)
+* [Goose Attack: A Locust-inspired Load Testing Tool In Rust](https://www.tag1consulting.com/blog/goose-locust-inspired-load-testing-tool-rust)
 * [Magnifying Glasses for Rust Assembly](https://www.justanotherdot.com/posts/magnifying-glasses-for-rust-assembly.html)
 * [More Rust and Load Balancer Adventures](https://medium.com/@bparli/more-rust-and-load-balancer-adventures-fad07f4fb095) 
 * [Porting North Korean Dictionaries with Rust](https://digitalnk.com/blog/2020/05/08/porting-north-korean-dictionaries-with-rust/)
